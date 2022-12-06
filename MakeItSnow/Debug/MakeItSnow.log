@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (MakeItSnow.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  imgui-SFML.cpp
+C:\Users\Darry\source\repos\SFML_IMGui_Assignment_2\MakeItSnow\imgui\imgui-SFML.cpp(559,65): warning C4244: 'argument': conversion from 'const unsigned int' to 'float', possible loss of data
+C:\Users\Darry\source\repos\SFML_IMGui_Assignment_2\MakeItSnow\imgui\imgui-SFML.cpp(559,47): warning C4244: 'argument': conversion from 'const unsigned int' to 'float', possible loss of data
+C:\Users\Darry\source\repos\SFML_IMGui_Assignment_2\MakeItSnow\imgui\imgui-SFML.cpp(562,67): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Darry\source\repos\SFML_IMGui_Assignment_2\MakeItSnow\imgui\imgui-SFML.cpp(562,48): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  Generating Code...
+  MakeItSnow.vcxproj -> C:\Users\Darry\source\repos\SFML_IMGui_Assignment_2\Debug\ImguiDemo.exe
