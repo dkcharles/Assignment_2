@@ -9,5 +9,3 @@
 
 [SFML and ImGui set up](https://www.youtube.com/watch?v=2YS5WJTeKpI)
 
-
-# Assignmet 2
